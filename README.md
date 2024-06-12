@@ -1,4 +1,4 @@
-# KultureHire-Internship
+# KultureHire
 
 The project "Understanding the career aspirations of Gen-Z", which I worked on during my Internship at KultureHire. With rapid technological advancements and shifting market dynamics, it is important to understand how the GEN-Z population is entering the workforce with a unique set of qualities and aspirations and shaping the future of their career.
 
